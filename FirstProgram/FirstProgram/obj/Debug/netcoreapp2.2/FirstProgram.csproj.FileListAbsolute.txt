@@ -1,0 +1,10 @@
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.deps.json
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.runtimeconfig.json
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.runtimeconfig.dev.json
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.dll
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/bin/Debug/netcoreapp2.2/FirstProgram.pdb
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.csprojAssemblyReference.cache
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.AssemblyInfoInputs.cache
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.AssemblyInfo.cs
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.dll
+/Users/yre03/Dev/Saxion/C# Masterclass/FirstProgram/FirstProgram/obj/Debug/netcoreapp2.2/FirstProgram.pdb
